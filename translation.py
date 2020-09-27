@@ -4,21 +4,21 @@ class Translation(object):
 
 <b>Send me any Telegram file & reply to that file with <code>/rename</code> FileName.ext</b>
 
-   Created  by @BG_OFFICIAL
-   Join Our Group for More Bots.
-   @BOT_GRAM_OFFICIAL"""
+   Created  by @KGROCKERZ
+   Join Our Group
+   @KGRTEMPLATESREQUEST"""
 
     RENAME_403_ERR = "Hey This is My Boss Files,Don't touch them."
     ABS_TEXT = "Are You Getting Mad??"
     UPGRADE_TEXT = "<b>Upgrade Unavailable at Movement Please Try Again Later</b>"
     DOWNLOAD_START = "Trying to Download Your File...😓"
     UPLOAD_START = "<b>Your Download Completed🥰🥰</b>" \
-                   "Support @BOT_GRAM_OFFICIAL"
+                   "Support @KGROCKERZ"
     RCHD_TG_API_LIMIT = "Your File Downloaded {} seconds.\nDetected File Size: {}\nYou are Killing My Server!!!🥺"
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > Support @BOT_GRAM_OFFICIAL **"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > Support @KGRTEMPLATESREQUEST**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Got Your Files in {} seconds.\nSent to You in {} seconds"
-    NOT_AUTH_USER_TEXT = "PM @BG_OFFICIAL"
-    NOT_AUTH_USER_TEXT_FILE_SIZE = "Got This Msg PM @BG_OFFICIAL"
+    NOT_AUTH_USER_TEXT = "PM @OFFICIAL_KG"
+    NOT_AUTH_USER_TEXT_FILE_SIZE = "Got This Msg PM @OFFICIAL_KG"
     SAVED_CUSTOM_THUMB_NAIL = "<b>THUMBNAIL SAVED!!</b>🥰"
     DEL_ETED_CUSTOM_THUMB_NAIL = "🌬️<b>THUMNAIL CLEARED!!</b>💨"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media Cleared"
